@@ -1,4 +1,5 @@
 N = int(input())
+
 stack = []
 compare= []
 

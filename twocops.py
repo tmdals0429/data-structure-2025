@@ -41,7 +41,7 @@ p2 = lst[K//2-1]
 s1 = pos(p1 + t)
 s2 = pos(p2 - t)
 
-d = (p2-p1) % cnt
+d = (p2-p1)
 
 #c_cnt -> 만난 횟수
 if 2*t < d:
